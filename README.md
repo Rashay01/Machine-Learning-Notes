@@ -1,5 +1,22 @@
 # Machine-Learning-Notes
 
+## Getting started 
+
+### Virtual ENV
+```sh
+python -m venv myenv
+```
+### Activate
+in cmd:
+```sh
+.\myenv\Scripts\Activate.ps1
+```
+### Install all dependencies
+run this to install all the dependencies required
+```sh
+pip install -r requirements.txt
+```
+
 
 ## Import links
 
