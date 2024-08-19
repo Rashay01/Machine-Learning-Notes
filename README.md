@@ -25,3 +25,5 @@ pip install -r requirements.txt
 [Day 1 notes](https://docs.google.com/document/d/1eH5GsmatvISjAzZ4wBmgkIhBIrUCQkNODznkHvLpLUY/edit)
 
 [Gen AI notes](https://docs.google.com/document/d/17wb0Z9EkLssdS-2Ec_H4GROPWAtPhxKvP3q-QaPvsEU/edit?usp=sharing)
+
+[AI with devops](https://drive.google.com/drive/folders/1M6iPapQhGRIRd6-JkipwVjw_kmwbcHyj?usp=sharing)
