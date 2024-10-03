@@ -59,7 +59,7 @@ murmurhash==1.0.10
 namex==0.0.8
 nbformat==5.10.4
 nest-asyncio==1.6.0
-nltk==3.8.2
+nltk==3.9
 numpy==1.26.4
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
